@@ -18,3 +18,4 @@ class Autoblue < Formula
     keep_alive true
   end
 end
+
