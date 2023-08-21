@@ -2,7 +2,7 @@ class Autoblue < Formula
   desc "Automatically turning off Bluetooth when the Mac goes to sleep in macOS"
   homepage "https://github.com/atayikilmaz/AutoBlue"
   url "https://github.com/atayikilmaz/AutoBlue/releases/download/v0.3.0/AutoBlue.tar"
-  sha256 "a0044bde7ed1fc1800e9844d94b1d094c924b22b5ea88fdb8804cf8410aa7fdc"
+  sha256 "82b0594afc16ae87c6b4ef45386293f2eab57264ef6bf1459884d7e475f5452e"
   license "MIT"
 
   def install
